@@ -10,8 +10,11 @@
 
 | | | |
 |---|---|---|
-| <img src="asset/aang.jpeg" width="140" height="140" style="border-radius:12px;object-fit:cover"> | <img src="asset/aang.jpg" width="140" height="140" style="border-radius:12px;object-fit:cover"> | <img src="asset/aang.jpg" width="140" height="140" style="border-radius:12px;object-fit:cover"> |
-| <img src="asset/aang.jpeg" width="140" height="140" style="border-radius:12px;object-fit:cover" colspan="3"> | | |
+| <img src="asset/aang.jpeg" width="140" height="140" style="border-radius:12px;object-fit:cover">
+| <img src="asset/aang.jpg" width="140" height="140" style="border-radius:12px;object-fit:cover">
+| <img src="asset/aang.jpg" width="140" height="140" style="border-radius:12px;object-fit:cover"> |
+| <img src="asset/aang.jpeg" width="140" height="140" style="border-radius:12px;object-fit:cover" colspan="3">
+| | |
 
 **4 DPO yang saat ini diburu.**  
 *Jika Anda melihat mereka, jangan didekati. Laporkan!*
